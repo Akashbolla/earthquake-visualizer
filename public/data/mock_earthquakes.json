@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "metadata": { "generated": 1620000000000, "title": "USGS Mock" },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "mock1",
+      "properties": {
+        "mag": 4.2,
+        "place": "10km S of Townsville",
+        "time": 1620000000000,
+        "url": "https://example.com/event/1"
+      },
+      "geometry": { "type": "Point", "coordinates": [-122.3321, 47.6062, 10] }
+    },
+    {
+      "type": "Feature",
+      "id": "mock2",
+      "properties": {
+        "mag": 2.8,
+        "place": "5km N of Smallville",
+        "time": 1620003600000,
+        "url": "https://example.com/event/2"
+      },
+      "geometry": { "type": "Point", "coordinates": [140.0, 35.6, 30] }
+    }
+  ]
+}

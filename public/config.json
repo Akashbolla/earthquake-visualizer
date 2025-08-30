@@ -1,0 +1,7 @@
+{
+  "USGS_ENDPOINT": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+  "USE_LOCAL_MOCK": true,
+  "LOCAL_MOCK_PATH": "/data/mock_earthquakes.json",
+  "DEFAULT_MIN_MAG": 0,
+  "DEFAULT_MAX_MAG": 10
+}
